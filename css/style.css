@@ -118,9 +118,8 @@ section{
 }
 
 .home-img img{
-    width: 100%;
+    width: 105%;
     height: auto;
-    border-radius: 100%;
 }
 .home-text h1{
     font-size: var(--big-font);
